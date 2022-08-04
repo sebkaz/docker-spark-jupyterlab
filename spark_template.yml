@@ -1,0 +1,9 @@
+default_context:
+  project_name: "spark_jupyterlab"
+  work_directory: "notebooks"
+  pass: spark
+  jdk_version: 17
+  julia_version: 1.7.2
+  with_spark: "yes"
+  port: 8888
+replay_dir: "."
